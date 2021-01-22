@@ -1,0 +1,10 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: SOMER
+  annotations:
+    github.com/project-slug: thunderstrike39/SOMER
+spec:
+  type: other
+  lifecycle: unknown
